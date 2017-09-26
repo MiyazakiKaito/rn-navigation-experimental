@@ -1,0 +1,11 @@
+{
+  "name": "rn-navigation-experimental",
+  "version": "1.0.3",
+  "description": "NavigationExperimental of RN0.39",
+  "main": "NavigationExperimental",
+  "dependencies": {
+    "clamp": "^1.0.1",
+    "prop-types": "^15.6.0",
+    "react-addons-pure-render-mixin": "^15.6.2"
+  }
+}
