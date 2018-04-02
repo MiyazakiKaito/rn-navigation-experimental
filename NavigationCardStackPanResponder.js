@@ -14,7 +14,7 @@
 const NavigationAbstractPanResponder = require('./NavigationAbstractPanResponder');
 
 const ReactNative = require('react-native');
-const { Animaated, I18nManager } = ReactNative;
+const { Animated, I18nManager } = ReactNative;
 
 const clamp = require('clamp');
 
